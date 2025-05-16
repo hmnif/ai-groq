@@ -1,7 +1,7 @@
 from groq import Groq
 
 # Inisialisasi klien Groq
-client = Groq(api_key="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")
+client = Groq(api_key="YOUR_KEY")
 
 # Inisialisasi riwayat percakapan
 chat_history = []
